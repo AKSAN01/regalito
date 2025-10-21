@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/regalito/static/css/main.e3424837.css",
+    "main.js": "/regalito/static/js/main.96c6b912.js",
+    "static/js/453.66f37ff6.chunk.js": "/regalito/static/js/453.66f37ff6.chunk.js",
+    "static/media/foto1.jpg": "/regalito/static/media/foto1.6a369fa5b2e49e764097.jpg",
+    "static/media/foto5.jpg": "/regalito/static/media/foto5.1a2358fdbcfeef0b8db1.jpg",
+    "static/media/foto10.jpg": "/regalito/static/media/foto10.93a5d1d741f2e73069e8.jpg",
+    "static/media/foto8.jpg": "/regalito/static/media/foto8.63d45e0f633aa460fb1d.jpg",
+    "static/media/foto9.jpg": "/regalito/static/media/foto9.fd592af089382206776b.jpg",
+    "static/media/foto7.jpg": "/regalito/static/media/foto7.76bea1db2f09d51c7dfd.jpg",
+    "static/media/foto4.jpg": "/regalito/static/media/foto4.a541a71065ab2ea421ef.jpg",
+    "static/media/foto3.jpg": "/regalito/static/media/foto3.a825def0b348585afb53.jpg",
+    "static/media/foto2.jpg": "/regalito/static/media/foto2.0357a6ba9aab1a8ad99b.jpg",
+    "static/media/foto6.jpg": "/regalito/static/media/foto6.2860566258a824b67f42.jpg",
+    "static/media/foto11.jpg": "/regalito/static/media/foto11.f02416370a07fa632568.jpg",
+    "index.html": "/regalito/index.html",
+    "main.e3424837.css.map": "/regalito/static/css/main.e3424837.css.map",
+    "main.96c6b912.js.map": "/regalito/static/js/main.96c6b912.js.map",
+    "453.66f37ff6.chunk.js.map": "/regalito/static/js/453.66f37ff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3424837.css",
+    "static/js/main.96c6b912.js"
+  ]
+}
