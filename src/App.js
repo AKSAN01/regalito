@@ -1,23 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import PasswordGate from "./components/PasswordGate";
+import SecretPage from "./components/SecretPage";
+import "./App.css";
 
 function App() {
+  const [accessGranted, setAccessGranted] = useState(false);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {!accessGranted ? (
+        <PasswordGate onAccess={() => setAccessGranted(true)} />
+      ) : (
+        <SecretPage />
+      )}
     </div>
   );
 }
